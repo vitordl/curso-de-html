@@ -1,0 +1,23 @@
+p{
+    /*color: crimson;*/
+    
+
+}
+
+/*
+
+definindo todos os elementos de p em cor crimson
+
+font-size:2em;  - definir fonte 2x maior
+
+*/
+
+
+p.endereco{
+    color:blue;
+    
+}
+
+.endereco{
+    font-family: fantasy
+}
