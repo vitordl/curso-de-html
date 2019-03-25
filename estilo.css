@@ -1,5 +1,5 @@
 p{
-    color: red;
+    color: blue;
     
 
 }
@@ -10,7 +10,7 @@ definindo todos os elementos de p em cor crimson
 
 font-size:2em;  - definir fonte 2x maior
 
-*/
+
 
 
 p.endereco{
@@ -21,3 +21,4 @@ p.endereco{
 .endereco{
     font-family: fantasy
 }
+*/
